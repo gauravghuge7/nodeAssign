@@ -1,0 +1,20 @@
+{
+  "name": "expressassign",
+  "version": "1.0.0",
+  "description": "express 1 assignment ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "gaurav ghuge",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "node": "^21.6.1",
+    "node.js": "^0.0.1-security",
+    "nodejs": "^0.0.0",
+    "nodemon": "^3.0.3"
+  }
+}
